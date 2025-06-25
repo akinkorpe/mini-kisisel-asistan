@@ -12,4 +12,4 @@ Bu proje, kullanıcıdan ad, soyad, doğum yılı ve şehir bilgilerini alarak y
 ## Nasıl çalıştırılır?
 
 ```bash
-python mini_kisisel_asistan.py
+python mini_kisisel_asistan.py# mini-kisisel-asistan
